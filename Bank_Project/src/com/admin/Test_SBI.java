@@ -11,6 +11,7 @@ import serviceImpl.SBI;
 public class Test_SBI {
 	public static void main(String[] args) throws inputMismatchException {
 	     System.out.println("----Welcome to SBI Bank----");
+           System.out.println("Hello World");
 		RBI sbi=new SBI();
 		
 		Scanner sc = new Scanner (System.in);
