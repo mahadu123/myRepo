@@ -12,12 +12,10 @@ public class Test_SBI {
 	public static void main(String[] args) throws inputMismatchException {
 	     System.out.println("----Welcome to SBI Bank----");
            System.out.println("Hello World");
-<<<<<<< HEAD
+
 		   System.out.println("Hello World by Mangesh 123");
 		System.out.println("Welocome You");
-=======
 		   System.out.println("Hello World by Mangesh 123456789");
->>>>>>> 52c622913cc3987bf20e29a4e6224dcda541f4ef
 		RBI sbi=new SBI();
 		
 		Scanner sc = new Scanner (System.in);
