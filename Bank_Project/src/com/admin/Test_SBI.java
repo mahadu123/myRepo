@@ -13,6 +13,7 @@ public class Test_SBI {
 	     System.out.println("----Welcome to SBI Bank----");
            System.out.println("Hello World");
 		   System.out.println("Hello World by Mangesh 123");
+		System.out.println("Welocome");
 		RBI sbi=new SBI();
 		
 		Scanner sc = new Scanner (System.in);
